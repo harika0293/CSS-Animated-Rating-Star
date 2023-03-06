@@ -1,9 +1,13 @@
-# animate-rating-star
+# Static Website
+Download this Project and open with Live Server
 
 ## Technologies used
-* Html
-* CSS
 
+* HTML
+* CSS
+* JavaScript
+
+# Enjoy !!
 
 
 
